@@ -1,0 +1,38 @@
+/***************************
+0-1. FONTS
+****************************/
+@font-face {
+    font-family: 'Comfortaa-Regular';
+    src: url(/static/fonts/Comfortaa/Comfortaa-Regular.ttf) format('ttf'),
+    	 url('/static/fonts/Comfortaa/Comfortaa-Regular.html') format('woff2'),
+         url('/static/fonts/Comfortaa/Comfortaa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserratregular';
+    src: url(/static/fonts/montserrat/Montserrat-Regular.ttf) format('ttf'),
+    	 url('/static/fonts/montserrat/montserrat-regular.html') format('woff2'),
+         url('/static/fonts/montserrat/montserrat-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat-extraBold';
+    src: url('/static/fonts/montserrat/Montserrat-ExtraBold.eot');
+    src: url('/static/fonts/montserrat/Montserrat-ExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/montserrat/Montserrat-ExtraBold.html') format('woff2'),
+        url('/static/fonts/montserrat/Montserrat-ExtraBold.woff') format('woff'),
+        url('/static/fonts/montserrat/Montserrat-ExtraBold.ttf') format('truetype'),
+        url('/static/fonts/montserrat/Montserrat-ExtraBold.svg#Montserrat-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'beauty';
+    src: url('/static/fonts/beauty/beauty.ttf') format('ttf'),
+    	url('/static/fonts/beauty/beauty.html') format('woff2'),
+        url('/static/fonts/beauty/beauty.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
